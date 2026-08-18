@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env2
+.env.*
+!.env.example
+receipts/
+*.log
+claim_payload.json
+probe.json

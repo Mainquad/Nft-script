@@ -1,0 +1,10 @@
+{
+  "name": "mint-framework",
+  "version": "1.0.0",
+  "description": "Config-driven EVM NFT minting with simulation and confirmation",
+  "main": "mint.js",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4"
+  }
+}
