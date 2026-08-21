@@ -7,3 +7,7 @@ receipts/
 *.log
 claim_payload.json
 probe.json
+preflight.json
+schemas.json
+tools.json
+package-lock.json
